@@ -3,7 +3,7 @@
 #inputting a string from user
 str1=input('enter a string---> ')
 
-#replacing any spaces with commas and converting all alphabets to lowercase
+
 d= str1.replace(",").replace(";").replace(":").replace("!").replace("?").replace(".").replace("-").replace("'").replace(" ").lower()
 
 #if-else loop for execution of purpose
