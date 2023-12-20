@@ -1,4 +1,4 @@
-###1. to check if string is palindrome or not###
+###WAP TO CHECK WHETHER A PHRASE IS PALINDROME OR NOT.###
 
 #inputting a string from user
 str1=input('enter a string---> ')
