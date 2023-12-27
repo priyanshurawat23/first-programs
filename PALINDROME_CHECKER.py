@@ -4,7 +4,7 @@
 str1=input('enter a string---> ')
 
 
-d= str1.replace(",").replace(";").replace(":").replace("!").replace("?").replace(".").replace("-").replace("'").replace(" ").lower()
+d = str1.replace(",", "").replace(";", "").replace(":", "").replace("!", "").replace("?", "").replace(".", "").replace("-", "").replace("'", "").replace(" ", "").lower()
 
 #if-else loop for execution of purpose
 if d==d[::-1]:
