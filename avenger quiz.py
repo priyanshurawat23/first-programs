@@ -50,7 +50,7 @@ if play == 'yes'or 'y':
     ques += 1
     question = input(f'\n{ques}. Stan Lee made his final cameo in which Marvel movie?: ').lower()
 
-    if question == 'endgame'or 'Endgame'or 'avengers endgame:
+    if question == 'endgame'or 'Endgame'or 'avengers endgame':
         score += 1
         print('correct! you got 1 point')
 
